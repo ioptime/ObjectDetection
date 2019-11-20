@@ -24,3 +24,5 @@ https://github.com/shaqian/flutter_realtime_detection
 https://dribbble.com/shots/5698597-Fitness-App
 
 https://github.com/TechieBlossom/FitnessApp
+
+https://medium.com/innovation-incubator/real-time-image-classification-on-android-using-flutter-tflite-2674f03caf0f

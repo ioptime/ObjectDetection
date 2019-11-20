@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt test](assets/images/1.PNG)   ![alt test](assets/images/2.PNG)
 
-![alt test](assets/images/3.PNG)   ![alt test](assets/images/3.PNG) 
+![alt test](assets/images/3.PNG)   ![alt test](assets/images/4.PNG) 
 
 
 ## References

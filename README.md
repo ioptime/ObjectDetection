@@ -18,6 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ## References
 
 https://pub.dev/packages/tflite
+
 https://github.com/shaqian/flutter_realtime_detection
+
 https://dribbble.com/shots/5698597-Fitness-App
+
 https://github.com/TechieBlossom/FitnessApp
